@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Zuhair AlSader (زهير  الصدر). My pronouns are he/him. I work with distributed systems, currently at [Koor Technologies](https://koor.tech/) and helping work on [Rook](https://rook.io)
+
+[LinkedIn](https://www.linkedin.com/in/zalsader/)
 
 <!--
 **zalsader/zalsader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
